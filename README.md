@@ -2,6 +2,7 @@
 ## Введение
 Перед выполнением задания можно ознакомиться с [дополнительными материалами](https://github.com/netology-code/virt-homeworks/tree/virt-11/additional)
 
+<details>
 ### Windows
 
 [Видеоинструкция](https://embed.new.video/uyjUq9B3qYo6BbbkzG71Ny).
@@ -11,6 +12,7 @@
 ### Linux (на примере Ubuntu 20.04)
 
 [Видеоинструкция](https://embed.new.video/cRQW4Z2YnxZUxzKRLWwnPF).
+</details>
 
 ## Задача 1
 
