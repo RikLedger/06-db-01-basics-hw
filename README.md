@@ -4,7 +4,7 @@
 
 <details>
 
-  <summary>Click to expand</summary>
+  <summary>помощь</summary>
   
 ### Windows
 
