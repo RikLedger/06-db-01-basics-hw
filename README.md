@@ -4,7 +4,7 @@
 
 <details>
 
-  <summary>помощь</summary>
+  <summary>`помощь`</summary>
   
 ### Windows
 
