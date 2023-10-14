@@ -3,6 +3,9 @@
 Перед выполнением задания можно ознакомиться с [дополнительными материалами](https://github.com/netology-code/virt-homeworks/tree/virt-11/additional)
 
 <details>
+
+  <summary>Click to expand</summary>
+  
 ### Windows
 
 [Видеоинструкция](https://embed.new.video/uyjUq9B3qYo6BbbkzG71Ny).
